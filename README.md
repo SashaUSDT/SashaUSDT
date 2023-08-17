@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SashaUSDT
 - 👀 I’m interested in programmig, scripts, blockchain
 - 🌱 I’m currently learning solidity
+- 
 
 
 <!---
