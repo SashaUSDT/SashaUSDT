@@ -3,3 +3,4 @@ j- 👋 Hi, I’m Sasha
 - 🌱 I’m currently learning solidity, python,
 -   .
 g
+р
